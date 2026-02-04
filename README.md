@@ -17,8 +17,8 @@ While the original Sky-Spy was built for the Seeed XIAO S3, this version include
 ## 🚀 Installation
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME_HERE/Sky-Spy-Heltec-V3.git](https://github.com/YOUR_USERNAME_HERE/Sky-Spy-Heltec-V3.git)
-    cd Sky-Spy-Heltec-V3
+    git clone [https://github.com/michaelgilbert1208/Sky-Spy-Heltec.git](https://github.com/michaelgilbert1208/Sky-Spy-Heltec.git)
+    cd Sky-Spy-Heltec
     ```
 2.  **Open in VS Code** with the **PlatformIO** extension installed.
 3.  **Build & Upload:**
